@@ -20,7 +20,7 @@ SUPPORT_USERNAME = "liquidsupp"
 PROMO_CODES = {
     "HAYPER": 10,
     "XAM": 10,
-    "TEMA LOPATA": хуй,
+    "TEMA LOPATA": 10,
 }
 
 logging.basicConfig(level=logging.INFO)
